@@ -1,3 +1,6 @@
+Запустить с консоли команду
+	composer install
+	
 Настройки подключения к БД
 	config/db.php
 	DB luxury.sql
